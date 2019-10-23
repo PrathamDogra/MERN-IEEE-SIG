@@ -10,6 +10,10 @@
 * (ReactJS)[https://reactjs.org]
 * (NodeJS)[https://nodejs.org/en/]
 
+### Basics of JavaScript and ES6
+* (JS Bin)[https://jsbin.com/?js,console]
+* (Stackblitz)[https://stackblitz.com]
+
 ### Hands on Session on Creating a server
 
 
